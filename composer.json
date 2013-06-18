@@ -1,0 +1,10 @@
+{
+    "name": "oforralmesdk12orus/branching-bundle",
+    "license": "MIT",
+    "type": "symfony-bundle",
+    "description": "Branching bundle",
+    "autoload": {
+        "psr-0": { "oforralmesdk12orus\\Branch\\BranchBundle": "" }
+    },
+    "target-dir": "oforralmesdk12orus/Branch/BranchBundle"
+}
