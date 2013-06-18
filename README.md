@@ -5,4 +5,4 @@ testing branching
 
 editing in master
 
-edit four
+edit six
